@@ -74,7 +74,7 @@ export default {
       tabSize: 3,
       value: this.value,
       autoCloseTags: true,
-      mode: 'css',
+      mode: 'scss',
       theme: 'material',
       closeBrackets: true,
       matchBrackets: true,
